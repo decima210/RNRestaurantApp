@@ -14,7 +14,7 @@ const Splash = ({navigation}) => {
     <SafeAreaView style={styles.container}>
       <Image
         style={styles.logo}
-        source={require('../assets/logo.png')}
+        source={require('../assets/Images/logo.png')}
         resizeMode={'center'}
       />
     </SafeAreaView>
